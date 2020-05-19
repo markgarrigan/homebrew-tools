@@ -1,8 +1,8 @@
 class Bake < Formula
   desc "Baking web development environments"
   homepage "https://github.com/markgarrigan/bake"
-  url "https://github.com/markgarrigan/bake/archive/v0.0.8.tar.gz"
-  sha256 "b8f6e20aef62687485d2c74c73cc7a336246f5cd53b06ce5614a966b73399f9a"
+  url "https://github.com/markgarrigan/bake/archive/v0.0.9.tar.gz"
+  sha256 "2b57c6cff6ca2ab48f93e05cf13d4a2780d6d96219fda9524db4abfaa26936c7"
 
   def install
     bin.install "bake"
